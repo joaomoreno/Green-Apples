@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Growlvetica</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Helvetica based Growl style.</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Growl.WebKit.growlvetica</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>GWKS</string>
+	<key>CFBundleShortVersionString</key>
+	<string>Growlvetica 0.1</string>
+	<key>CFBundleSignature</key>
+	<string>IPPU</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>CSResourcesFileMapped</key>
+	<string>yes</string>
+	<key>GrowlPluginAuthor</key>
+	<string>João Moreno</string>
+	<key>GrowlHasShadow</key>
+	<true/>
+</dict>
+</plist>

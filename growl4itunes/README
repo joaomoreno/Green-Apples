@@ -1,0 +1,16 @@
+growl4itunes
+------------
+A Python script that sends notifications to Growl with the
+minimum information about the current track on iTunes. It's
+fairly customizable, if you know a bit about Python and
+Applescript. I created this because Growltunes isn't customizable
+at all. Maybe one day I'll make this customizable.
+
+Requirements:
+    - Python
+    - growlnotify (install from the Growl's distribution .dmg file)
+
+Installation:
+    - Put the file growl4itunes into your favourite scripts folder
+      and configure it to start at boot time.
+
