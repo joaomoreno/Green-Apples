@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Localize.py - Incremental localization on XCode projects
+# João Moreno 2009
+# http://joaomoreno.com/
+
 from sys import argv
 from codecs import open
 from re import compile
