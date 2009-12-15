@@ -127,11 +127,5 @@ def localize(path):
             os.system('genstrings -q -o "%s" `find . -name "*.m"`' % language)
 
 if __name__ == '__main__':
-    #if len(argv) != 4:
-    #    print_help()
-    #    exit(1)
-
-    #merge(argv[1], argv[2], argv[3])
-
     localize(os.getcwd())
 
